@@ -1,0 +1,7 @@
+Task: Utilize an open-source API to retrieve data in JSON format and subsequently parse the JSON data to present it as a dashboard.
+
+Steps Taken:
+
+Subscribed to the Twitter API, which provides a list of Twitter spaces dashboard.
+Installed the required dependencies, including Dash and Requests, using pip in Python.
+Organized and stored the code in a file named Twitter.py
